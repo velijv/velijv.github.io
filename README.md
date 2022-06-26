@@ -1,1 +1,1 @@
-# [git.veli.ee](https://git.veli.ee)
+![veli.ee](https://veli.ee/img/qr.svg)
